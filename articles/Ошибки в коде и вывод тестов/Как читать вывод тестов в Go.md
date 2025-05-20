@@ -28,7 +28,7 @@
 
 Это сообщение выглядит так:
 
-![](https://files.carrotquest.app/knowledge-bases-images/articles/64033/64033-1732284026113-667btc9i.png)
+![image](https://github.com/user-attachments/assets/fde4ecf2-7697-4648-9a94-b7d84ace8637)
 
 Сообщение об ошибке содержит:
 
@@ -46,7 +46,7 @@
 
 Вывод такой ошибки будет выглядеть как:
 
-![](https://files.carrotquest.app/knowledge-bases-images/articles/64033/64033-1732284036341-soo2dmx6.png)
+![image](https://github.com/user-attachments/assets/f249dc34-d7c1-42f0-b253-661cfc52be98)
 
 Если описания недостаточно, всегда можно обратиться к документации, в которой описаны случаи возникновения тех или иных ошибок.
 
@@ -56,7 +56,7 @@
 
 Для начала разберемся, как выглядят тесты для упражнений:
 
-![](https://files.carrotquest.app/knowledge-bases-images/articles/64033/64033-1732284046457-4x0hec9u.png)
+![image](https://github.com/user-attachments/assets/dc8c58a5-a23a-4e2d-84d0-b00e41b0c073)
 
 Тестируемая функция `SafeWrite()`  вызывается в тестах с определенными параметрами. Результат работы функции сравнивается с заранее определенным ожидаемым результатом.
 
@@ -64,7 +64,7 @@
 
 Рассмотрим подробнее вывод на вкладке OUTPUT в случае падения тестов:
 
-![](https://files.carrotquest.app/knowledge-bases-images/articles/64033/64033-1732284064855-1ikxkrh2.png)
+![image](https://github.com/user-attachments/assets/a6f0bcb3-23f9-4c7d-88a5-d4e02269f34c)
 
 Здесь мы видим:
 
@@ -86,10 +86,10 @@
 
 Для этого достаточно добавить вызов функции `fmt.Println()`  с интересующим нас значением:
 
-![](https://files.carrotquest.app/knowledge-bases-images/articles/64033/64033-1732284076259-4njbzz5w.png)
+![image](https://github.com/user-attachments/assets/338f483c-bfea-40bc-83f7-eb95e94b5c1d)
 
 Затем нужно запустить проверку тестами еще раз, чтобы на вкладке OUTPUT увидеть результат работы нашей отладочной печати:
 
-![](https://files.carrotquest.app/knowledge-bases-images/articles/64033/64033-1732284086166-mqmd4hkh.png)
+![image](https://github.com/user-attachments/assets/2c96875b-95cb-4585-af29-1dd3ce39702f)
 
 С помощью отладочной печати мы можем проследить выполнение программы и выяснить, куда закралась ошибка.
