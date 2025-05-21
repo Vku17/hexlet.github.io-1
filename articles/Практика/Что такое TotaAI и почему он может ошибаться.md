@@ -10,65 +10,65 @@ Tota AI — это инструмент внутри курсов Хекслет
 
 Кнопку обращения к Тоте для объяснения теории можно найти на странице каждого урока в менюсправа.
 
-![](https://files.carrotquest.app/knowledge-bases-images/articles/64033/64033-1727271641813-b3q3z8pc.png)
+![image](https://github.com/user-attachments/assets/c5bcb153-fd0f-4cf4-ac08-826008049fcf)
 
 После нажатия на кнопку появится окно с выжимкой основной информации из теории урока.
 
-![](https://files.carrotquest.app/knowledge-bases-images/articles/64033/64033-1727271695424-frfec0rg.png)
+![image](https://github.com/user-attachments/assets/fdbf2fd0-fa1f-4be2-b64d-1f683e2d935f)
 
 Ещё Тота может объяснить подробно код из примеров в теории уроков. Для этого нужно навести курсор на блок с кодом и появится кнопка “Объясни код”
 
-![](https://files.carrotquest.app/knowledge-bases-images/articles/64033/64033-1727271724859-px6ct838.png)
+![image](https://github.com/user-attachments/assets/21fd28bc-a3de-41e5-b424-9ad18effae83)
 
 При нажатии на кнопку “Объясни код” появится окно, где Тота подробно распишет все детали.
 
-![](https://files.carrotquest.app/knowledge-bases-images/articles/64033/64033-1727271809499-8xwc7fmz.png)
+![image](https://github.com/user-attachments/assets/8525375f-5596-4149-8f0a-9d0eda129991)
 
 ## Как Тота помогает в квизах?
 
 В большинстве наших курсов следующим шагом после теории является прохождение небольшого опроса на закрепление знаний, он же называется квизом. Если сходу не получается пройти квиз, то можно получить подсказку у Тоты, нажав на кнопку в виде вопросительного знака.
 
-![](https://files.carrotquest.app/knowledge-bases-images/articles/64033/64033-1727271846167-88af8amn.png)
+![image](https://github.com/user-attachments/assets/e4d3cccb-fa92-41ef-a385-48c3ed6e6331)
 
 После нажатия на кнопку “Получить подсказку” откроется окно, где будет написан текст, который подтолкнёт к правильному решению.
 
-![](https://files.carrotquest.app/knowledge-bases-images/articles/64033/64033-1727271889012-xa3yanrh.png)
+![image](https://github.com/user-attachments/assets/75bf89e7-984a-4088-9f1e-5bd3dd67c983)
 
 ## Как Тота делает код-ревью?
 
-Виртуальный помощник может провести разбор кода в конкретном упражнении и дать подсказки для улучшения кода. Сделать это можно в любом вашем сохраненном решении, если оно было зафиксировано [по инструкции](https://help.hexlet.ru/article/65232). На странице сохраненного решения при помощи Тоты можно:
+Виртуальный помощник может провести разбор кода в конкретном упражнении и дать подсказки для улучшения кода. Сделать это можно в любом вашем сохраненном решении, если оно было зафиксировано [по инструкции](https://github.com/Hexlet/hexlet.github.io/blob/main/articles/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/%D0%9A%D0%B0%D0%BA%20%D1%81%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D1%82%D1%8C%20%D1%81%D0%B2%D0%BE%D0%B5%20%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5.md). На странице сохраненного решения при помощи Тоты можно:
 
 * **Получить рекомендации по улучшению решения**
 
-![](https://files.carrotquest.app/knowledge-bases-images/articles/64033/64033-1727271974722-ng09z6cz.png)
+![image](https://github.com/user-attachments/assets/88669000-5e3b-4313-98b0-baf77b7a9096)
 
 Если навести курсор на блок с кодом вашего решения и нажать на кнопку “Улучшить код”, откроется окно с рекомендациями от виртуального помощника.
 
-![](https://files.carrotquest.app/knowledge-bases-images/articles/64033/64033-1727271999609-88y07b9n.png)
+![image](https://github.com/user-attachments/assets/5935ffa2-aa37-410e-81e4-e02b72e5bb82)
 
 * **Получить разбор кода в решении учителя**
 
-**![](https://files.carrotquest.app/knowledge-bases-images/articles/64033/64033-1727272028725-3iksmiat.png)**
+**![image](https://github.com/user-attachments/assets/61f4ef6c-a5bf-4a9c-9f10-9af7f66ffe17)**
 
 Если навести курсор на блок с кодом в решении учителя и нажать на кнопку “Объяснить код”, откроется окно с подробным разъяснением.
 
-![](https://files.carrotquest.app/knowledge-bases-images/articles/64033/64033-1727272060704-qc1r4x28.png)
+![image](https://github.com/user-attachments/assets/10bb955e-9357-4248-8d34-5a548d9007bd)
 
 * **Получить расшифровку вывода тестов вашего решения, если есть ошибки**
 
-**![](https://files.carrotquest.app/knowledge-bases-images/articles/64033/64033-1727272097521-fq8npk8x.png)**
+**![image](https://github.com/user-attachments/assets/a5e2e82c-c705-4e27-aa57-5afa5eefc293)**
 
 Если в вашем сохраненном решении есть ошибки, то при переходе во вкладку “вывод тестов” и наведении курсора на блок с текстом вывода появится кнопка “Пояснить вывод тестов”. При нажатии на эту кнопку откроется окно с объяснением Тоты.
 
-![](https://files.carrotquest.app/knowledge-bases-images/articles/64033/64033-1727272142303-3xlrhvlv.png)
+![image](https://github.com/user-attachments/assets/a38ee8e6-e10e-4cb4-838d-fdf94bea07a7)
 
 * **Получить расшифровку вывода линтера по вашему решению, если в нём есть ошибки**
 
-**![](https://files.carrotquest.app/knowledge-bases-images/articles/64033/64033-1727272192392-c4clrbbi.png)**
+**![image](https://github.com/user-attachments/assets/4671bb12-0f29-4869-add1-ff0338ea9d8d)**
 
 Если в вашем сохраненном решении есть ошибки, то при переходе во вкладку “вывод линтера” и наведении курсора на блок с текстом появится кнопка “Пояснить вывод линтера”. При нажатии на эту кнопку отобразится окно с ответом Тоты.
 
-![](https://files.carrotquest.app/knowledge-bases-images/articles/64033/64033-1727272226992-1mmlz26q.png)
+![image](https://github.com/user-attachments/assets/fdf881c2-648f-4c76-8af9-e1f0a72ef760)
 
 ## Почему TotaAI может иногда ошибаться?
 
@@ -79,6 +79,6 @@ Tota AI — это инструмент внутри курсов Хекслет
 
 Важно помнить, что TotaAI может помочь в объяснении теории или решении задач, но не всегда может предоставить абсолютно точную информацию. Используйте этот инструмент в процессе обучения, но с осторожностью и проверяя результаты, которые он выдает.
 
-В случае ошибки Тоты, вы можете сообщить о ней сразу нашим редакторам сайта при помощи команды Ctrl+Enter, как это писано в [этой статье](https://help.hexlet.ru/article/65765).
+В случае ошибки Тоты, вы можете сообщить о ней сразу нашим редакторам сайта при помощи команды Ctrl+Enter, как это писано в [этой статье](https://github.com/Hexlet/hexlet.github.io/blob/main/articles/%D0%A1%D0%B0%D0%B9%D1%82%20%D0%B8%20%D1%81%D1%80%D0%B5%D0%B4%D0%B0%20%D0%A5%D0%B5%D0%BA%D1%81%D0%BB%D0%B5%D1%82%D0%B0/%D0%9E%D1%82%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D1%8C%20%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B5.md).
 
 Если при использовании Тоты возникли проблемы или появились другие вопросы, смело обращайтесь в поддержку Хекслета по почте support@hexlet.io.
