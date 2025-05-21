@@ -30,7 +30,7 @@
 
 Это сообщение выглядит так:
 
-![](https://files.carrotquest.app/knowledge-bases-images/articles/64033/64033-1732283919917-917x3s7v.png)
+![image](https://github.com/user-attachments/assets/713b7dcd-89fc-44ff-ae89-b4d2c9d62480)
 
 Сообщение об ошибке содержит:
 
@@ -50,7 +50,7 @@
 
 Кроме того, в выводе ошибки можно найти файл и номер строчки, где появилось исключение:
 
-![](https://files.carrotquest.app/knowledge-bases-images/articles/64033/64033-1732283941809-g556jbrh.png)
+![image](https://github.com/user-attachments/assets/376b88fa-0ca4-445a-a7b3-ee68f179e567)
 
 Не стоит бояться исключений: достаточно прочитать его сообщение и станет понятно, что хочет Java.
 
@@ -62,7 +62,7 @@
 
 Для начала разберемся, как выглядят тесты для упражнений:
 
-![](https://files.carrotquest.app/knowledge-bases-images/articles/64033/64033-1732283955446-sohwt3id.png)
+![image](https://github.com/user-attachments/assets/50770df1-d2b4-4114-b0b5-4c935a6d5456)
 
 Тестируемый метод вызывается в тестах с определенными параметрами. Результат работы этого метода сравнивается с заранее определенным ожидаемым результатом.
 
@@ -72,7 +72,7 @@
 
 Рассмотрим подробнее вывод на вкладке OUTPUT в случае падения тестов:
 
-![](https://files.carrotquest.app/knowledge-bases-images/articles/64033/64033-1732283966037-aqe4hau7.png)
+![image](https://github.com/user-attachments/assets/700366b9-718a-4203-bc83-9b1c30da1043)
 
 Здесь мы видим:
 
@@ -93,10 +93,10 @@
 
 Для этого достаточно добавить вызов метода `System.out.println()`  с интересующим нас значением:
 
-![](https://files.carrotquest.app/knowledge-bases-images/articles/64033/64033-1732283981000-o5cc3lty.png)
+![image](https://github.com/user-attachments/assets/1127e365-d59f-4c35-a772-05ea544edf74)
 
 Затем нужно запустить проверку тестами еще раз, чтобы на вкладке OUTPUT увидеть результат работы нашей отладочной печати:
 
-![](https://files.carrotquest.app/knowledge-bases-images/articles/64033/64033-1732283987684-qynb96sh.png)
+![image](https://github.com/user-attachments/assets/a0afa446-cab8-4c15-b044-06b378ff8867)
 
 С помощью отладочной печати мы можем проследить выполнение программы и выяснить, куда закралась ошибка.
